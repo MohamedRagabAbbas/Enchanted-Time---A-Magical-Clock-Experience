@@ -14,5 +14,7 @@ To experience the magic of EnchantedTime, simply open the `index.html` file in y
 
 ## Video Demo
 
+
+https://github.com/MohamedRagabAbbas/Enchanted-Time---A-Magical-Clock-Experience/assets/98807470/36b68463-6541-4ed2-abfb-96a2032bef60
 [Click here to watch the EnchantedTime demo video](Video.mp4)
 
